@@ -1,0 +1,4 @@
+/* Base styles live in App.css (mobile + PWA shell). */
+html, body {
+  overscroll-behavior-y: none;
+}

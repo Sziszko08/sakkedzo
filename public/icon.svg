@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="SakkEdző">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a2332"/>
+      <stop offset="100%" stop-color="#0f1419"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#81c784"/>
+      <stop offset="100%" stop-color="#4fc3f7"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="url(#bg)"/>
+  <rect x="64" y="64" width="384" height="384" rx="32" fill="#243044"/>
+  <g>
+    <rect x="96" y="96" width="80" height="80" fill="#eee6c9"/>
+    <rect x="176" y="96" width="80" height="80" fill="#6a994e"/>
+    <rect x="256" y="96" width="80" height="80" fill="#eee6c9"/>
+    <rect x="336" y="96" width="80" height="80" fill="#6a994e"/>
+    <rect x="96" y="176" width="80" height="80" fill="#6a994e"/>
+    <rect x="176" y="176" width="80" height="80" fill="#eee6c9"/>
+    <rect x="256" y="176" width="80" height="80" fill="#6a994e"/>
+    <rect x="336" y="176" width="80" height="80" fill="#eee6c9"/>
+    <rect x="96" y="256" width="80" height="80" fill="#eee6c9"/>
+    <rect x="176" y="256" width="80" height="80" fill="#6a994e"/>
+    <rect x="256" y="256" width="80" height="80" fill="#eee6c9"/>
+    <rect x="336" y="256" width="80" height="80" fill="#6a994e"/>
+    <rect x="96" y="336" width="80" height="80" fill="#6a994e"/>
+    <rect x="176" y="336" width="80" height="80" fill="#eee6c9"/>
+    <rect x="256" y="336" width="80" height="80" fill="#6a994e"/>
+    <rect x="336" y="336" width="80" height="80" fill="#eee6c9"/>
+  </g>
+  <path fill="url(#accent)" d="M286 140c-8 18-28 28-46 34-6 2-10 8-8 14 14 36 8 62-10 86-4 6 0 14 8 14h96c10 0 18-8 18-18v-12c0-28-10-52-28-70 12-8 22-20 26-36 2-8-4-16-12-16h-20c-8 0-16 2-24 4zM210 360h140c12 0 20 10 16 20l-8 24c-2 6-8 10-14 10H216c-6 0-12-4-14-10l-8-24c-4-10 4-20 16-20z"/>
+</svg>
